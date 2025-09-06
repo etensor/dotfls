@@ -1,0 +1,10 @@
+/home/etensor/Downloads/dotfls/ratuimer/target/debug/deps/symphonia_format_riff-9fdc6924edcdcc81.d: /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/lib.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/common.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/mod.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/chunks.rs
+
+/home/etensor/Downloads/dotfls/ratuimer/target/debug/deps/libsymphonia_format_riff-9fdc6924edcdcc81.rlib: /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/lib.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/common.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/mod.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/chunks.rs
+
+/home/etensor/Downloads/dotfls/ratuimer/target/debug/deps/libsymphonia_format_riff-9fdc6924edcdcc81.rmeta: /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/lib.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/common.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/mod.rs /home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/chunks.rs
+
+/home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/lib.rs:
+/home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/common.rs:
+/home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/mod.rs:
+/home/etensor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-format-riff-0.5.4/src/wave/chunks.rs:

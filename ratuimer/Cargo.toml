@@ -1,0 +1,11 @@
+[package]
+name = "ratuimer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.99"
+crossterm = "0.29.0"
+figlet-rs = "0.1.5"
+ratatui = "0.29.0"
+rodio = "0.21.1"
